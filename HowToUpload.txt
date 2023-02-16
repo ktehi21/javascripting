@@ -1,0 +1,1 @@
+1. make the file/ 2. use 'git add <new or modified file>'/ 3. leave the comment about update use the 'git commit -m blah blah'/ 4. upload to Github server use 'git push origin <branch name>'
